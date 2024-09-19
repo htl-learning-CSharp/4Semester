@@ -1,0 +1,14 @@
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\bin\Debug\net8.0\Dublettensuche.exe
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\bin\Debug\net8.0\Dublettensuche.deps.json
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\bin\Debug\net8.0\Dublettensuche.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\bin\Debug\net8.0\Dublettensuche.dll
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\bin\Debug\net8.0\Dublettensuche.pdb
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.dll
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\refint\Dublettensuche.dll
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.pdb
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\Dublettensuche.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\Dublettensuche\Dublettensuche\obj\Debug\net8.0\ref\Dublettensuche.dll

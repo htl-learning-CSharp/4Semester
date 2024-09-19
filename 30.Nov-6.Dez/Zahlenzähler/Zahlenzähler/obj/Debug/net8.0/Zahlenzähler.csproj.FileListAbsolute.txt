@@ -1,0 +1,14 @@
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\bin\Debug\net8.0\Zahlenzähler.exe
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\bin\Debug\net8.0\Zahlenzähler.deps.json
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\bin\Debug\net8.0\Zahlenzähler.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\bin\Debug\net8.0\Zahlenzähler.dll
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\bin\Debug\net8.0\Zahlenzähler.pdb
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.dll
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\refint\Zahlenzähler.dll
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.pdb
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\Zahlenzähler.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\Zahlenzähler\Zahlenzähler\obj\Debug\net8.0\ref\Zahlenzähler.dll

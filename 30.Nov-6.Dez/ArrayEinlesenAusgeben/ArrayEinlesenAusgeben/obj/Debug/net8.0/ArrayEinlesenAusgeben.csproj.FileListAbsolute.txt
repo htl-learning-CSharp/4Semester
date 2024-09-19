@@ -1,0 +1,14 @@
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\bin\Debug\net8.0\ArrayEinlesenAusgeben.exe
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\bin\Debug\net8.0\ArrayEinlesenAusgeben.deps.json
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\bin\Debug\net8.0\ArrayEinlesenAusgeben.runtimeconfig.json
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\bin\Debug\net8.0\ArrayEinlesenAusgeben.dll
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\bin\Debug\net8.0\ArrayEinlesenAusgeben.pdb
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.dll
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\refint\ArrayEinlesenAusgeben.dll
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.pdb
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ArrayEinlesenAusgeben.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4ABIFT\ArrayEinlesenAusgeben\ArrayEinlesenAusgeben\obj\Debug\net8.0\ref\ArrayEinlesenAusgeben.dll
