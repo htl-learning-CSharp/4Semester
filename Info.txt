@@ -1,0 +1,11 @@
+void - keine rückgabewert
+static void- keine rückgabewert
+
+public - kann alle aufrufen
+private - kann keine andere aufrufen
+
+
+class: 
+public - kann in einer anderen class aufgerufen werden
+private - kann nicht in einer andern class aufgerufen werden
+

@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\ngolr\\Desktop\\4.POS\\NumberExtractor\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{FFF6D290-22C0-4765-AD2E-4AFD1D9F3170}|NumberExtractor\\NumberExtractor.csproj|c:\\users\\ngolr\\desktop\\4.pos\\numberextractor\\numberextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{FFF6D290-22C0-4765-AD2E-4AFD1D9F3170}|NumberExtractor\\NumberExtractor.csproj|solutionrelative:numberextractor\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\ngolr\\Desktop\\4.POS\\NumberExtractor\\NumberExtractor\\Program.cs",
+              "RelativeDocumentMoniker": "NumberExtractor\\Program.cs",
+              "ToolTip": "C:\\Users\\ngolr\\Desktop\\4.POS\\NumberExtractor\\NumberExtractor\\Program.cs",
+              "RelativeToolTip": "NumberExtractor\\Program.cs",
+              "ViewState": "AQIAAAcAAAAAAAAAAAAQwBwAAABmAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-30T19:15:03.179Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

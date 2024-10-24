@@ -1,0 +1,15 @@
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\bin\Debug\net8.0\BigInt.exe
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\bin\Debug\net8.0\BigInt.deps.json
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\bin\Debug\net8.0\BigInt.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\bin\Debug\net8.0\BigInt.dll
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\bin\Debug\net8.0\BigInt.pdb
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.sourcelink.json
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.dll
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\refint\BigInt.dll
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.pdb
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\BigInt.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\BigInt\BigInt\obj\Debug\net8.0\ref\BigInt.dll

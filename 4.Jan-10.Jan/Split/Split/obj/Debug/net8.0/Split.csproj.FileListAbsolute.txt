@@ -1,0 +1,15 @@
+C:\Users\ngolr\Desktop\4.POS\Split\Split\bin\Debug\net8.0\Split.exe
+C:\Users\ngolr\Desktop\4.POS\Split\Split\bin\Debug\net8.0\Split.deps.json
+C:\Users\ngolr\Desktop\4.POS\Split\Split\bin\Debug\net8.0\Split.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\Split\Split\bin\Debug\net8.0\Split.dll
+C:\Users\ngolr\Desktop\4.POS\Split\Split\bin\Debug\net8.0\Split.pdb
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.sourcelink.json
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.dll
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\refint\Split.dll
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.pdb
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\Split.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\Split\Split\obj\Debug\net8.0\ref\Split.dll

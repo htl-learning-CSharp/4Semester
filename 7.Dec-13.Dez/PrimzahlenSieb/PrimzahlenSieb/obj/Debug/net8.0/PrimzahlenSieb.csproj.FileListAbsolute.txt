@@ -1,0 +1,15 @@
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\bin\Debug\net8.0\PrimzahlenSieb.exe
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\bin\Debug\net8.0\PrimzahlenSieb.deps.json
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\bin\Debug\net8.0\PrimzahlenSieb.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\bin\Debug\net8.0\PrimzahlenSieb.dll
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\bin\Debug\net8.0\PrimzahlenSieb.pdb
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.sourcelink.json
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.dll
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\refint\PrimzahlenSieb.dll
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.pdb
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\PrimzahlenSieb.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\PrimzahlenSieb\PrimzahlenSieb\obj\Debug\net8.0\ref\PrimzahlenSieb.dll

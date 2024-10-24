@@ -1,0 +1,15 @@
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\bin\Debug\net8.0\Buchtabenzähler.exe
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\bin\Debug\net8.0\Buchtabenzähler.deps.json
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\bin\Debug\net8.0\Buchtabenzähler.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\bin\Debug\net8.0\Buchtabenzähler.dll
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\bin\Debug\net8.0\Buchtabenzähler.pdb
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.sourcelink.json
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.dll
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\refint\Buchtabenzähler.dll
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.pdb
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\Buchtabenzähler.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\Buchtabenzähler\Buchtabenzähler\obj\Debug\net8.0\ref\Buchtabenzähler.dll

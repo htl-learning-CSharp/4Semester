@@ -1,0 +1,15 @@
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\bin\Debug\net8.0\Methoden.exe
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\bin\Debug\net8.0\Methoden.deps.json
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\bin\Debug\net8.0\Methoden.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\bin\Debug\net8.0\Methoden.dll
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\bin\Debug\net8.0\Methoden.pdb
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.sourcelink.json
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.dll
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\refint\Methoden.dll
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.pdb
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\Methoden.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\Methoden\Methoden\obj\Debug\net8.0\ref\Methoden.dll

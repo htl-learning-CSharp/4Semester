@@ -1,0 +1,15 @@
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\bin\Debug\net8.0\Matrix.exe
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\bin\Debug\net8.0\Matrix.deps.json
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\bin\Debug\net8.0\Matrix.runtimeconfig.json
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\bin\Debug\net8.0\Matrix.dll
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\bin\Debug\net8.0\Matrix.pdb
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfoInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.AssemblyInfo.cs
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.csproj.CoreCompileInputs.cache
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.sourcelink.json
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.dll
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\refint\Matrix.dll
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.pdb
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\Matrix.genruntimeconfig.cache
+C:\Users\ngolr\Desktop\4.POS\Matrix\Matrix\obj\Debug\net8.0\ref\Matrix.dll
